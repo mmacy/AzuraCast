@@ -26,5 +26,5 @@ app/.env
 tests/_output/*
 
 # Docker files
-/docker-compose.yml
+#/docker-compose.yml
 /*.tar.gz
