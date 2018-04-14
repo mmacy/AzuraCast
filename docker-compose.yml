@@ -13,7 +13,7 @@ services:
       MYSQL_HOST: "mariadb"         # Change this if you plan to connect to an external DB host.
       MYSQL_PORT: 3306              # ^
       MYSQL_USER: "azuracast"       # Once the database has been installed, don't change this.
-      MYSQL_PASSWORD: "*********"   # ^
+      MYSQL_PASSWORD: "azur4c457"   # ^
       MYSQL_DATABASE: "azuracast"   # ^
       MYSQL_RANDOM_ROOT_PASSWORD: "yes"
       AZURACAST_DC_REVISION: 2      # Only modified when this Docker Compose file has changed.
